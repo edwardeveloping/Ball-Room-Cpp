@@ -1,0 +1,456 @@
+﻿  Ball.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Camera.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(6,72): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(6,45): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(6,18): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(7,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(8,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Camera.cpp(9,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Collectable.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(24,13): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(26,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(34,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Color.cpp
+  Cube.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(7,77): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(7,55): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(7,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(9,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(10,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.cpp(11,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Cuboid.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(5,95): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(5,67): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(5,39): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(7,39): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(8,39): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.cpp(9,39): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Game.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(24,13): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(26,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(34,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Game.cpp(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Game.cpp(56,30): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Game.cpp(57,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  GameScene.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(24,13): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(26,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Collectable.h(34,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\GameScene.cpp(18,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Interactable.cpp
+  MainBall.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  MainMenu.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Model.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(11,77): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(11,55): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(11,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(13,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(14,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Model.cpp(15,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  ModelLoader.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(79,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(80,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(81,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(83,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(84,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\ModelLoader.cpp(85,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  PlayerRankingInfo.cpp
+  programa_p2.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\programa_p2.cpp(16,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\programa_p2.cpp(17,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Ranking.cpp
+  RankingScene.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Scene.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cube.h(13,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cuboid.h(13,11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Cylinder.h(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(41,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(47,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(53,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(59,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(65,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(71,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(77,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(83,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(90,24): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(91,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(92,44): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(93,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(99,23): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(100,42): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(101,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(102,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(108,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(109,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(110,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(111,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(117,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(118,42): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(119,23): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(120,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(126,44): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(127,43): warning C4244: 'argumento': conversión de 'T' a 'const float'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(128,24): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Scene.cpp(129,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Solid.cpp
+  Sphere.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(15,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(16,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.h(20,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(7,77): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(7,55): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(7,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(9,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(10,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(11,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Sphere.cpp(17,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Compilando...
+  Text.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(7,77): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(7,55): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(7,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(9,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(10,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Text.cpp(11,33): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Triangle.cpp
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(8,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(8,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(8,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(9,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(9,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(9,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(12,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(12,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(12,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(13,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(13,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(13,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(16,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(16,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(16,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(17,75): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(17,53): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\programa_p2\Triangle.cpp(17,31): warning C4244: 'argumento': conversión de 'T' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Generando código
+  872 of 890 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  programa_p2.vcxproj -> C:\Users\eduar\Documents\D.V. Segundo\Programación avanzada\ballRoom\programa_p2\x64\Release\programa_p2.exe
